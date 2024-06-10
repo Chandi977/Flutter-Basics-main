@@ -16,23 +16,23 @@ To run this project locally, you need to have Flutter installed on your machine.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Chandi977/Flutter-Basics-main.git
+      git clone https://github.com/Chandi977/Flutter-Basics-main.git
    ```
 2. Navigate to the project directory:
 
-```bash
-cd Flutter-Basics-mainFlutter-Basics-main
-```
+   ```bash
+   cd Flutter-Basics-mainFlutter-Basics-main
+   ```
 
 3. Install dependencies:
-```bash
-   flutter pub get
-```
+   ```bash
+      flutter pub get
+   ```
 
 4. Run the app:
-```bash
-flutter run
-```
+   ```bash
+   flutter run
+   ```
 
 # Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
